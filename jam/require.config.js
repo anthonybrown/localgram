@@ -13,7 +13,7 @@ var jam = {
         {
             "name": "jquery",
             "location": "../jam/jquery",
-            "main": "dist/jquery.js"
+            "main": "jquery-1.9.1.min.js"
         },
         {
             "name": "text",
@@ -60,7 +60,7 @@ if (typeof require !== "undefined" && require.config) {
         {
             "name": "jquery",
             "location": "../jam/jquery",
-            "main": "dist/jquery.js"
+            "main": "jquery-1.9.1.min.js"
         },
         {
             "name": "text",
@@ -106,7 +106,7 @@ else {
         {
             "name": "jquery",
             "location": "../jam/jquery",
-            "main": "dist/jquery.js"
+            "main": "jquery-1.9.1.min.js"
         },
         {
             "name": "text",
