@@ -68,7 +68,7 @@ This run the [r.js optimizer][rjs] and put the compiled output into
 [backbone]: http://backbonejs.org/
 [requirejs]: http://requirejs.org/
 [jam]: http://jamjs.org/
-[jasmine]: http://pivotal.github.com/jasmine/
+[jasmine]: https://jasmine.github.io/
 [grunt]: http://gruntjs.com/
 [geolocation]: http://dev.w3.org/geo/api/spec-source.html
 [instagram-api]: http://instagram.com/developer/
